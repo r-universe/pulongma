@@ -1,10 +1,10 @@
 [
   {
-    "package": "ARCokrig",
+    "package": "GPBayes",
     "oncran": true
   },
   {
-    "package": "GPBayes",
+    "package": "ARCokrig",
     "oncran": true
   }
 ]
