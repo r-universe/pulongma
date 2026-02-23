@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ARCokrig"]
-	path = ARCokrig
-	url = https://github.com/pulongma/arcokrig
 [submodule "GPBayes"]
 	path = GPBayes
 	url = https://github.com/cran/GPBayes
